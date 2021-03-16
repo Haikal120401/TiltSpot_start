@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Mar 16 13:17:39 ICT 2021
+0.baseType=DIRECTORY
+0.base=D\:\\Android\\AndroidStudio 2\\android-advanced-starter-apps-master\\android-advanced-starter-apps-master\\TiltSpot_start\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
